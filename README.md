@@ -8,4 +8,4 @@ A time logging program that logs your effective time by:
 
 Requires the Office package to run.
 
-The EXE-file can be found under a dubdir under the bin folder.
+The EXE-file can be found under a subdir under the bin folder.
