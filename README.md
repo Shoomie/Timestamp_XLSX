@@ -7,3 +7,5 @@ A time logging program that logs your effective time by:
 5. Saves the file and exits.
 
 Requires the Office package to run.
+
+The EXE-file can be found under a dubdir under the bin folder.
