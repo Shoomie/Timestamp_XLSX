@@ -11,4 +11,4 @@ If no document exists, a new one named after the current year and month will be 
 The same applies when a new month starts. If time is logged across months, it will be saved in the file pertaining to the month when the logger was started.
 Existing documents will have the newly logged time added to the next row.
 
-The EXE-file can be found in the bin folder and is (or should be) portable on Windows.
+The EXE-file can be found in the Timestamp_XLSX/bin and is (or should be) portable on Windows.
