@@ -1,0 +1,17 @@
+F:\Programmering\C#\Timestamp_XLSX\Timestamp_XLSX\bin\Release\net6.0\Timestamp_XLSX.exe
+F:\Programmering\C#\Timestamp_XLSX\Timestamp_XLSX\bin\Release\net6.0\Timestamp_XLSX.deps.json
+F:\Programmering\C#\Timestamp_XLSX\Timestamp_XLSX\bin\Release\net6.0\Timestamp_XLSX.runtimeconfig.json
+F:\Programmering\C#\Timestamp_XLSX\Timestamp_XLSX\bin\Release\net6.0\Timestamp_XLSX.dll
+F:\Programmering\C#\Timestamp_XLSX\Timestamp_XLSX\bin\Release\net6.0\Timestamp_XLSX.pdb
+F:\Programmering\C#\Timestamp_XLSX\Timestamp_XLSX\obj\Release\net6.0\Timestamp_XLSX.csproj.AssemblyReference.cache
+F:\Programmering\C#\Timestamp_XLSX\Timestamp_XLSX\obj\Release\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+F:\Programmering\C#\Timestamp_XLSX\Timestamp_XLSX\obj\Release\net6.0\Timestamp_XLSX.csproj.ResolveComReference.cache
+F:\Programmering\C#\Timestamp_XLSX\Timestamp_XLSX\obj\Release\net6.0\Timestamp_XLSX.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programmering\C#\Timestamp_XLSX\Timestamp_XLSX\obj\Release\net6.0\Timestamp_XLSX.AssemblyInfoInputs.cache
+F:\Programmering\C#\Timestamp_XLSX\Timestamp_XLSX\obj\Release\net6.0\Timestamp_XLSX.AssemblyInfo.cs
+F:\Programmering\C#\Timestamp_XLSX\Timestamp_XLSX\obj\Release\net6.0\Timestamp_XLSX.csproj.CoreCompileInputs.cache
+F:\Programmering\C#\Timestamp_XLSX\Timestamp_XLSX\obj\Release\net6.0\Timestamp_XLSX.dll
+F:\Programmering\C#\Timestamp_XLSX\Timestamp_XLSX\obj\Release\net6.0\refint\Timestamp_XLSX.dll
+F:\Programmering\C#\Timestamp_XLSX\Timestamp_XLSX\obj\Release\net6.0\Timestamp_XLSX.pdb
+F:\Programmering\C#\Timestamp_XLSX\Timestamp_XLSX\obj\Release\net6.0\Timestamp_XLSX.genruntimeconfig.cache
+F:\Programmering\C#\Timestamp_XLSX\Timestamp_XLSX\obj\Release\net6.0\ref\Timestamp_XLSX.dll
